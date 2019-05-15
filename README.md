@@ -1,6 +1,6 @@
 # Update Files Repository from Windows Vista, Post Life Cycle Support (April 11, 2017) until August 2018
 
-Windows Server 2008 Updates (from April 2017 to August 2018) for Windows Vista with Service Pack 2 installed and updates until May 2017 (Regular Support and WannaCry Emergency Update), for manual or deploy installation.
+Windows Server 2008 Updates (from April 2017 to August 2018) for Windows Vista with Service Pack 2 and updates until May 2017 (Regular Support and WannaCry Emergency Update) installed, for manual or deploy installation.
 
 Only 32 bits (x86 architecture) available for a while.
 
