@@ -4,6 +4,10 @@ Windows Server 2008 Updates (from April 2017 to August 2018) for Windows Vista w
 
 Only 32 bits (x86 architecture) available for a while.
 
+List of failed updates in my tests, check Failed.txt
+
+Full list of files available, check Files List.txt
+
 Note: Internet Explorer 9 Cumulative Rollup; Windows Server 2008 SP2 Monthly Rollup; .NET Framework Cumulative Rollup and others, most recent, not disponible here, also works.
 
 Alternative link: https://mega.nz/#!krBRBQbb!WEiq5siPS92tkA7WLrOs9n_Na5GGozYoglBy80UaKto
